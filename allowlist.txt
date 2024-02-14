@@ -42,3 +42,4 @@
 @@||radar.cedexis.com^
 @@||firebaselogging-pa.googleapis.com^
 @@||cloudflareinsights.com^
+@@||preferences.cid.samba.tv^
