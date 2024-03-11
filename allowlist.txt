@@ -43,3 +43,4 @@
 @@||firebaselogging-pa.googleapis.com^
 @@||cloudflareinsights.com^
 @@||preferences.cid.samba.tv^
+@@||googleadservices.com^
