@@ -44,3 +44,4 @@
 @@||cloudflareinsights.com^
 @@||preferences.cid.samba.tv^
 @@||googleadservices.com^
+@@||spotify.com^
