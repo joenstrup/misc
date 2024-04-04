@@ -26,6 +26,7 @@
 @@||klclick1.com^
 @@||tv2a.dk^
 @@||tv2.dk^
+@@||dr.dk^
 @@||relevant-digital.com^
 @@||optimizely.com^
 @@||chartbeat.com^
