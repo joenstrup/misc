@@ -46,3 +46,6 @@
 @@||preferences.cid.samba.tv^
 @@||googleadservices.com^
 @@||spotify.com^
+@@||GOs-Gsp.Io^
+@@||cookiebot.com^
+
