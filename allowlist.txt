@@ -46,3 +46,4 @@
 @@||preferences.cid.samba.tv^
 @@||googleadservices.com^
 @@||spotify.com^
+@@||plex.tv^
