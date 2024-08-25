@@ -47,3 +47,4 @@
 @@||googleadservices.com^
 @@||spotify.com^
 @@||plex.tv^
+@@||windy.com^
