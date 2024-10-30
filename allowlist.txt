@@ -49,4 +49,4 @@
 @@||plex.tv^
 @@||windy.com^
 @@||elforbundet-dk.uxmail.io^
-@@||googleusercontent.com^
+@@||oauth-redirect.googleusercontent.com^
