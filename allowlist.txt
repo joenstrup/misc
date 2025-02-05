@@ -5,6 +5,7 @@
 @@||aka.ms^
 @@||microsoft.com^
 @@||azure.com^
+@@||cloud.microsoft^
 @@||t.co^
 @@||netflix.com^
 @@||amazon.com^
