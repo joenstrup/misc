@@ -4,6 +4,7 @@
 @@||office365.com^
 @@||aka.ms^
 @@||microsoft.com^
+@@||azure.com^
 @@||t.co^
 @@||netflix.com^
 @@||amazon.com^
@@ -50,3 +51,4 @@
 @@||windy.com^
 @@||elforbundet-dk.uxmail.io^
 @@||oauth-redirect.googleusercontent.com^
+@@||enforce365.com^
