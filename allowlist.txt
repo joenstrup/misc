@@ -22,6 +22,7 @@
 @@||viaplay.tv^
 @@||viaplay.com^
 @@||joenstrup.dk^
+@@||joenstrup.local^
 @@||split.io^
 @@||nmrodam.com^
 @@||klclick.com^
