@@ -54,3 +54,6 @@
 @@||elforbundet-dk.uxmail.io^
 @@||oauth-redirect.googleusercontent.com^
 @@||enforce365.com^
+@@||msedge.net^
+@@||microsoftmscompoc.tt.omtrdc.net^
+@@||azr.footprintdns.com^
