@@ -57,3 +57,5 @@
 @@||msedge.net^
 @@||microsoftmscompoc.tt.omtrdc.net^
 @@||azr.footprintdns.com^
+@@||msauth.net^
+@@||live.com^
