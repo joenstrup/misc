@@ -59,3 +59,4 @@
 @@||azr.footprintdns.com^
 @@||msauth.net^
 @@||live.com^
+@@||mparticle.com^
