@@ -60,3 +60,4 @@
 @@||msauth.net^
 @@||live.com^
 @@||mparticle.com^
+@@||jabra.com^
