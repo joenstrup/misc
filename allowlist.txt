@@ -61,3 +61,4 @@
 @@||live.com^
 @@||mparticle.com^
 @@||jabra.com^
+@@||windows.net^
